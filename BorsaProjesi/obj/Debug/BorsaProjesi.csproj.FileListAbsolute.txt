@@ -1,0 +1,122 @@
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Form1.resources
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Islemler.resources
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.KullaniciPanel.resources
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.YoneticiPaneli.resources
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\Report1.rdlc
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\Properties\DataSources\Islem.datasource
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\RdlCompile.cache
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\RdlCompile.compiled
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Cem\source\repos\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Report1.rdlc
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Properties\DataSources\Islem.datasource
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Form1.resources
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Islemler.resources
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.KullaniciPanel.resources
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.YoneticiPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Report1.rdlc
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Properties\DataSources\Islem.datasource
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Form1.resources
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Islemler.resources
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.KullaniciPanel.resources
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.YoneticiPaneli.resources
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\Batuhan\Downloads\BorsaProjesi_Final\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Report1.rdlc
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Properties\DataSources\Islem.datasource
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.GirisPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Islemler.resources
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.KullaniciPanel.resources
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.YoneticiPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi19Haziran\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Report1.rdlc
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Properties\DataSources\Islem.datasource
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.GirisPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Islemler.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.KullaniciPanel.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.YoneticiPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi-2\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Report1.rdlc
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Properties\DataSources\Islem.datasource
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.GirisPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Islemler.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.KullaniciPanel.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.YoneticiPaneli.resources
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\erdem\Desktop\BorsaProjesi-2 - FİNAL\BorsaProjesi19Haziran\BorsaProjesi_Final\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
